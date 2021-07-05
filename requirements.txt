@@ -6,14 +6,17 @@ async-generator==1.10
 attrs==20.3.0
 backcall==0.2.0
 base58==2.0.1
+bases==0.0.1
 bleach==3.2.1
 blinker==1.4
 boto3==1.16.20
 botocore==1.19.20
+build==0.5.1
 cachetools==4.1.1
 certifi==2020.11.8
 cffi==1.14.3
 chardet==3.0.4
+check-manifest==0.46
 click==7.1.2
 colorama==0.4.4
 decorator==4.4.2
@@ -34,6 +37,7 @@ google-resumable-media==1.2.0
 googleapis-common-protos==1.52.0
 grpc-google-iam-v1==0.12.3
 grpcio==1.34.0
+helloworldrm==0.0.1
 idna==2.10
 importlib-metadata==3.3.0
 ipykernel==5.3.4
@@ -62,6 +66,7 @@ pandas==1.1.4
 pandocfilters==1.4.3
 parso==0.7.1
 pathtools==0.1.2
+pep517==0.10.0
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==8.0.1
