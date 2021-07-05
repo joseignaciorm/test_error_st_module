@@ -14,7 +14,7 @@ print(say_hello("Nacho"))
 #subfile1.subpack_1_file_1()
 #pack_2_file_2()
 
-from import_and_packages import m2
+#from import_and_packages import m2
 if st.checkbox("Bigquery Connection"):
     st.subheader("Markdown information to set template")
 
