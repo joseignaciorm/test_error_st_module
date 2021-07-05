@@ -6,7 +6,6 @@ import streamlit as st
 from helloworld import say_hello
 from bases.utils import utils
 
-print(utils())
 print(say_hello("Nacho"))
 
 #m2.output_m2_1()
@@ -19,7 +18,7 @@ if st.checkbox("Bigquery Connection"):
     st.subheader("Markdown information to set template")
 
     if st.button("Send"):
-        res = m2.output_m2_1()
+        res = utils()
         st.warning(f"{res}")
 
 
